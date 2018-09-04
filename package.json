@@ -35,7 +35,8 @@
 		"moment": "2.19.3",
 		"tinymask": "^1.0.2",
 		"@types/react-native": "*",
-		"@types/react": "*"
+		"@types/react": "*",
+		"react-native-elements": "1.0.0-beta5"
 	},
 	"devDependencies": {
 		"babel-cli": "^6.26.0",
