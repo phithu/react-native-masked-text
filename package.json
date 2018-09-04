@@ -1,5 +1,5 @@
 {
-	"name": "react-native-masked-text",
+	"name": "@npt/react-native-masked-text",
 	"version": "1.7.2",
 	"description": "Text and TextInput with mask for React Native applications",
 	"licenses": [
